@@ -2,8 +2,7 @@
 
 body{
 	line-height: 2.5;
-	padding-left : 5%;
-	padding-right : 5%;
+	
 	margin: 0px;
 }
 
@@ -261,4 +260,5 @@ a:visited {
 		width: 350px;
 		height:350px;
 	}
+
 }
